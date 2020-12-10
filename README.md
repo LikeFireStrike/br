@@ -1,4 +1,4 @@
-# br
+# Merge branches
 Initial stuff
                                B1---
                               /      \
